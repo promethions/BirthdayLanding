@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.packages{
+    
+}
+
+.packfirst{
+   border-radius: 10px;
+   margin: 20px;
+   height: 500px;
+   width: 330px;
+   background-color: #D794F5;
+}
+
+.packsecond{
+    border-radius: 10px;
+    margin: 20px;
+    height: 500px;
+    width: 330px;
+    background-color: #949BF5;
+ }
+
+.packthird{
+    border-radius: 10px;
+    margin: 20px;
+    height: 500px;
+    width: 330px;
+    background-color: #9AF594;
+}
